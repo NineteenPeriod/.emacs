@@ -1,0 +1,6 @@
+Add MELPA
+
+install catppuccin
+install projectile
+
+M-x eval-buffer with .emacs open or just reload
